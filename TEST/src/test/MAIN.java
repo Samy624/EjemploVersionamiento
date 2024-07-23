@@ -41,7 +41,7 @@ import java.util.Scanner;
 //                System.out.println(doramas.HEREDEROS+"\n"+"DATO: Te gusta el romance");
 //                break;
 //            default:
-//                System.out.println("ABURRIDO");
+//                System.out.println("Waos :(");
 //        }
 //
 // ArrayList<String> palabras = new ArrayList<>();
