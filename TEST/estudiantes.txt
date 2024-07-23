@@ -1,0 +1,6 @@
+1002237137,Rolando,Males,16,10mo,A
+1002501466,j,j,12,8vo ,A
+1005009962,Estevan,Usuay,18,1 bachillerato,D
+1002775151,Lesly,Teanga,18,3 bachillerato,A
+1008009009,Estevan,Usuay,18,1 bachillerato,D
+1050216967,Samy,Maigua,19,3 bachillerato,B

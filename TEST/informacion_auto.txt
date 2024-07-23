@@ -1,0 +1,22 @@
+
+======================================
+Color: VERDE
+Año: 2005
+Marca: CHEVROLET
+Modelo: 2.2
+Placa: ASD-122
+Chasis: 123456
+Dueño: SAMY MAIGUA
+Cédula del Dueño: 1050216967
+======================================
+--------CARACTERISTICAS PRINCIPALES------
+Color: VERDE
+Año: 2022
+Marca: KIA
+Modelo: SPORTAGE
+--------OTRAS CARACTERISTICAS------
+Placa: IBF12847837
+Chasis: 216753
+Dueño: YO
+Cédula del Dueño: 100
+======================================
